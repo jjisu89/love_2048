@@ -49,18 +49,18 @@ HTMLActuator.prototype.clearContainer = function (container) {
 var val2caption = function(val){
 
   const captions = [
+  "아롱",
+  "다롱",
   "익환", //2
   "미영", //4
   "미향", //8
   "지수", //16
   "현자", //32
   "상기", //64
-  "아롱", //128
-  "다롱", //256
-  "군산", //512
-  "청주", //1024
-  "서울", //2048
-  "마지막", //4096
+  "형식", //512
+  "다리", //1024
+  "빨리", //2048
+  "나아라", //4096
 ];
 
   // if(val <= 0) return "<span style='font-size:smaller'>Garbage</span>";
